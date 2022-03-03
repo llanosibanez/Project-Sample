@@ -10,6 +10,7 @@ Instructions to run the Sample Angular App;
 
 ### Run the Sample Angular App for local development
 #### Pre-requisites
+#### Pre-requisites LLANOS
 1. [Install Node and NPM](https://nodejs.org/en/download/)
 
 #### Build the App

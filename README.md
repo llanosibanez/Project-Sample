@@ -11,7 +11,7 @@ A basic GitHub repository example for new [Call for Code](https://developer.ibm.
 _Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
 
 ## Contents
-#### OTHER CONTENTS
+#### OTHER CONTENTS /*llanos changes this file too*/****
 
 - [Submission or project name](#submission-or-project-name)
   - [Contents](#contents)
